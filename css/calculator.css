@@ -36,4 +36,7 @@
     border-radius: 5px;
     cursor: pointer;
 }
-
+.button:hover{
+    box-shadow: 0 0 5px 0 whitesmoke;
+    transition: 0.5s;
+}
