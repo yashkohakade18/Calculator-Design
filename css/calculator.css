@@ -40,3 +40,11 @@
     box-shadow: 0 0 5px 0 whitesmoke;
     transition: 0.5s;
 }
+.ac{
+    background-color: rgb(228, 74, 74);
+    color: white;
+}
+.equals{
+    background-color: rgb(228, 74, 74);
+    color: white;
+}
